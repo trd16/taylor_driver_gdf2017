@@ -228,7 +228,7 @@ GameObject:
   - component: {fileID: 220275001}
   - component: {fileID: 220275000}
   m_Layer: 0
-  m_Name: Triangle
+  m_Name: flatland
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -555,7 +555,7 @@ GameObject:
   - component: {fileID: 523676827}
   - component: {fileID: 523676826}
   m_Layer: 0
-  m_Name: Hexagon
+  m_Name: ball3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -663,7 +663,7 @@ GameObject:
   - component: {fileID: 904506990}
   - component: {fileID: 904506989}
   m_Layer: 0
-  m_Name: Hexagon (2)
+  m_Name: ball5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -771,7 +771,7 @@ GameObject:
   - component: {fileID: 923872743}
   - component: {fileID: 923872742}
   m_Layer: 0
-  m_Name: Hexagon (1)
+  m_Name: ball4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1769,7 +1769,7 @@ GameObject:
   - component: {fileID: 1935492472}
   - component: {fileID: 1935492471}
   m_Layer: 0
-  m_Name: Hexagon (3)
+  m_Name: ball6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
